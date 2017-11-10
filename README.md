@@ -5,3 +5,5 @@ for POMDPs (Pineau, Gordon, Thrun 2003).
 
 This is not an official Google product.
 
+So far, only the value iteration step is implemented.
+
